@@ -9,11 +9,17 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
-  <!---->
+    <!--子模块-->
     <modules>
         <module>shanjupay-common</module>
-
-
+        <module>shanjupay-gateway</module>
+        <module>shanjupay-merchant</module>
+        <module>shanjupay-merchant-application</module>
+        <module>shanjupay-operation-application</module>
+        <module>shanjupay-payment-agent</module>
+        <module>shanjupay-transaction</module>
+        <module>shanjupay-uaa</module>
+        <module>shanjupay-user</module>
     </modules>
 
     <parent>
@@ -187,10 +193,10 @@
             </resource>
         </resources>
         <plugins>
-            <plugin>
+          <!--  <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
+            </plugin>-->
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

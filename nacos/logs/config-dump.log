@@ -1,0 +1,32 @@
+2020-07-07 21:24:07,118 INFO [dump-all-ok] merchant-application.yaml+SHANJUPAY_GROUP, 1590213633000, length=156, md5=28e82c6ebfa7213a472d7fae54617f35
+
+2020-07-07 21:24:07,119 INFO [dump-all-ok] spring-boot-http.yaml+COMMON_GROUP, 1589989992000, length=528, md5=9da51c25662aa98085b8b1b3b6145ed4
+
+2020-07-07 21:24:07,119 INFO [dump-all-ok] merchant-service.yaml+SHANJUPAY_GROUP, 1591803666000, length=534, md5=d3487a9a027133ae3f612adbc887d8a3
+
+2020-07-07 21:24:07,120 INFO [dump-all-ok] spring-boot-starter-druid.yaml+COMMON_GROUP, 1589992813000, length=1330, md5=a0090506e7fc7397dd43ebbc585c9780
+
+2020-07-07 21:24:07,120 INFO [dump-all-ok] spring-boot-mybatis-plus.yaml+COMMON_GROUP, 1589991799000, length=322, md5=1a86e5f817783346a09ce2b9ed147e56
+
+2020-07-07 21:25:53,900 INFO [dump-all-ok] merchant-application.yaml+SHANJUPAY_GROUP, 1590213633000, length=156, md5=28e82c6ebfa7213a472d7fae54617f35
+
+2020-07-07 21:25:53,901 INFO [dump-all-ok] spring-boot-http.yaml+COMMON_GROUP, 1589989992000, length=528, md5=9da51c25662aa98085b8b1b3b6145ed4
+
+2020-07-07 21:25:53,902 INFO [dump-all-ok] merchant-service.yaml+SHANJUPAY_GROUP, 1591803666000, length=534, md5=d3487a9a027133ae3f612adbc887d8a3
+
+2020-07-07 21:25:53,903 INFO [dump-all-ok] spring-boot-starter-druid.yaml+COMMON_GROUP, 1589992813000, length=1330, md5=a0090506e7fc7397dd43ebbc585c9780
+
+2020-07-07 21:25:53,903 INFO [dump-all-ok] spring-boot-mybatis-plus.yaml+COMMON_GROUP, 1589991799000, length=322, md5=1a86e5f817783346a09ce2b9ed147e56
+
+2020-07-07 22:12:44,887 INFO [dump-all-ok] merchant-application.yaml+SHANJUPAY_GROUP, 1590213633000, length=156, md5=28e82c6ebfa7213a472d7fae54617f35
+
+2020-07-07 22:12:44,888 INFO [dump-all-ok] spring-boot-http.yaml+COMMON_GROUP, 1589989992000, length=528, md5=9da51c25662aa98085b8b1b3b6145ed4
+
+2020-07-07 22:12:44,888 INFO [dump-all-ok] merchant-service.yaml+SHANJUPAY_GROUP, 1591803666000, length=534, md5=d3487a9a027133ae3f612adbc887d8a3
+
+2020-07-07 22:12:44,889 INFO [dump-all-ok] spring-boot-starter-druid.yaml+COMMON_GROUP, 1589992813000, length=1330, md5=a0090506e7fc7397dd43ebbc585c9780
+
+2020-07-07 22:12:44,889 INFO [dump-all-ok] spring-boot-mybatis-plus.yaml+COMMON_GROUP, 1589991799000, length=322, md5=1a86e5f817783346a09ce2b9ed147e56
+
+2020-07-07 22:12:44,890 INFO [dump-all-ok] jwt.yaml+COMMON_GROUP, 1594130617000, length=21, md5=426a5ba2bf6a13d0c452eaa05c2c2c93
+

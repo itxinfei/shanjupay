@@ -11,10 +11,9 @@
 
     <artifactId>shanjupay-payment-agent</artifactId>
     <packaging>pom</packaging>
+
     <modules>
         <module>shanjupay-payment-agent-api</module>
         <module>shanjupay-payment-agent-service</module>
     </modules>
-
-
 </project>

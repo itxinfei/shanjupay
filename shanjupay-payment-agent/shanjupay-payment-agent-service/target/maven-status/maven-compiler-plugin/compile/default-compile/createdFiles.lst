@@ -1,0 +1,7 @@
+com\shanjupay\paymentagent\PaymentAgentBootstrap.class
+com\shanjupay\paymentagent\config\WXSDKConfig.class
+com\shanjupay\paymentagent\service\PayChannelAgentServiceImpl.class
+com\shanjupay\paymentagent\config\WXSDKConfig$1.class
+com\shanjupay\paymentagent\message\PayConsumer.class
+com\shanjupay\paymentagent\common\constant\AliCodeConstants.class
+com\shanjupay\paymentagent\message\PayProducer.class

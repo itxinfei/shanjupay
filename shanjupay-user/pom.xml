@@ -11,10 +11,9 @@
 
     <artifactId>shanjupay-user</artifactId>
     <packaging>pom</packaging>
+
     <modules>
         <module>shanjupay-user-api</module>
         <module>shanjupay-user-service</module>
     </modules>
-
-
 </project>
