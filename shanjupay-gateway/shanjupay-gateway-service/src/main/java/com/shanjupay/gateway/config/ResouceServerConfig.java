@@ -41,8 +41,9 @@ public class ResouceServerConfig {
                     .sessionCreationPolicy(SessionCreationPolicy.IF_REQUIRED)
                     .and()
                     .authorizeRequests()
-                    .antMatchers("/uaa/druid/**").denyAll()
-                    .antMatchers("/uaa/**").permitAll();
+                   // .antMatchers("/uaa/druid/**").denyAll()
+                   // .antMatchers("/uaa/**").permitAll();
+                    .antMatchers("/**").permitAll();
         }
 
     }

@@ -23,7 +23,9 @@ public class GatewayBootstrap {
     }
 
 
-
+    /**
+     * @return
+     */
     @Bean
     public AuthFilter preFileter() {
         return new AuthFilter();
@@ -44,6 +46,4 @@ public class GatewayBootstrap {
         bean.setOrder(Ordered.HIGHEST_PRECEDENCE);
         return bean;
     }
-
-
 }

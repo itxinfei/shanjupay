@@ -259,6 +259,8 @@ public class TenantController {
     @ApiImplicitParam(name = "loginRequest", value = "登录请求参数", required = true, dataType = "LoginRequestDTO", paramType = "body")
     @GetMapping("/login")
     public LoginInfoDTO login(@RequestBody LoginRequestDTO loginRequest) {
+        //输出登录请求数据
+        System.out.println(loginRequest.toString());
         return tenantService.login(loginRequest);
     }
 

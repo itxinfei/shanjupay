@@ -12,14 +12,16 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableDiscoveryClient
 @EnableSwagger2
 public class UserBootstrap {
-
     public static void main(String[] args) {
         SpringApplication.run(UserBootstrap.class, args);
     }
 
+    /**
+     *
+     * @return
+     */
     @Bean
     public RestTemplate restTemplate() {
         return new RestTemplate(new OkHttp3ClientHttpRequestFactory());
     }
-
 }

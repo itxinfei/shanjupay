@@ -16,6 +16,4 @@
         <module>shanjupay-uaa-api</module>
         <module>shanjupay-uaa-service</module>
     </modules>
-
-
 </project>

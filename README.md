@@ -12,3 +12,17 @@ log4j2、xxl-job
 ### 项目功能架构
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0706/152942_5b4c4381_800553.png "项目功能架构.png")
 
+### 数据库
+- shanjupay_merchant_service 用户中心数据
+- shanjupay_transaction 交易服务数据库
+
+
+
+### 项目工程
+- 商户平台应用(shanjupay-merchant-application) 为前端提供商户管理功能
+- 商户服务API(shanjupay-merchant-api) 定义商户服务提供的接口
+- 商户服务(shanjupay-merchant-service) 实现商户服务的所有接口
+
+### 中间件
+- nacos  172.168.20.220
+namespace: bb6c3c09-08d6-42a1-b4da-0796083661b2
