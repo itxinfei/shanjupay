@@ -4,16 +4,30 @@
 
   <!-- 技术栈分组徽章 -->  
   <p align="center">  
-    <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">  
-    <img alt="Maven" src="https://img.shields.io/badge/maven-3.6.3%2B-yellowgreen">  
-    <img alt="License" src="https://img.shields.io/badge/license-Apache-green">  
-    <img alt="前端" src="https://img.shields.io/badge/前端-Vue%20+%20React%20+%20Weex-blueviolet">   
-    <img alt="后端框架" src="https://img.shields.io/badge/后端-SpringCloud%20Alibaba%20+%20Dubbo-orange">  
-    <img alt="数据库" src="https://img.shields.io/badge/数据库-MySQL%208.0%20+%20Redis-yellowgreen">  
-    <img alt="消息队列" src="https://img.shields.io/badge/消息队列-RocketMQ%204.9-blue">  
-    <img alt="监控" src="https://img.shields.io/badge/监控-Prometheus%20+%20SkyWalking-purple">  
-    <img alt="部署" src="https://img.shields.io/badge/部署-Docker%20+%20Kubernetes-brightgreen">  
-  </p>  
+  <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-3.x%2B-yellowgreen">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2.1.3.RELEASE-blueviolet">
+  <img alt="Spring Cloud" src="https://img.shields.io/badge/Spring%20Cloud-Greenwich.RELEASE-orange">
+  <img alt="MyBatis Plus" src="https://img.shields.io/badge/MyBatis%20Plus-3.1.0-green">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0.11-red">
+  <img alt="Druid" src="https://img.shields.io/badge/Druid-1.1.16-lightgrey">
+  <img alt="Lombok" src="https://img.shields.io/badge/Lombok-1.18.0-yellow">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-2.9.2-blue">
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-1.0.9.RELEASE-purple">
+  <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-2.1.3.RELEASE-teal">
+  <img alt="MapStruct" src="https://img.shields.io/badge/MapStruct-1.3.0.Final-yellowgreen">
+  <img alt="Fastjson" src="https://img.shields.io/badge/Fastjson-1.2.47-orange">
+  <img alt="Gson" src="https://img.shields.io/badge/Gson-2.8.2-blue">
+  <img alt="Guava" src="https://img.shields.io/badge/Guava-25.0--jre-lightblue">
+  <img alt="Commons Lang" src="https://img.shields.io/badge/Commons%20Lang-2.6-brown">
+  <img alt="ShardingSphere" src="https://img.shields.io/badge/ShardingSphere-4.0.0--RC1-blue">
+  <img alt="Alipay SDK" src="https://img.shields.io/badge/Alipay%20SDK-3.7.73.ALL-green">
+  <img alt="WeChat Pay SDK" src="https://img.shields.io/badge/WeChat%20Pay%20SDK-3.4.0-purple">
+  <img alt="Qiniu SDK" src="https://img.shields.io/badge/Qiniu%20SDK-7.2.25-yellow">
+  <img alt="RocketMQ" src="https://img.shields.io/badge/RocketMQ-2.0.2-orange">
+  <img alt="OkHttp" src="https://img.shields.io/badge/OkHttp-3.9.1-red">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-2.1.3.RELEASE-green">
+  <img alt="前端" src="https://img.shields.io/badge/前端-Vue%20+%20React%20+%20Weex-blueviolet">  
 </div>  
 
 ## 📌 项目简介  
