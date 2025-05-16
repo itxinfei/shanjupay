@@ -1,69 +1,93 @@
-<div align="center">
 
-# 🚀 闪聚支付  
-**聚合支付平台 | 提供线上收银台、线下扫码支付、SaaS服务及全生态金融解决方案**  
+<div align="center">  
+  <h1 style="font-size: 36px;">🚀 闪聚支付</h1>  
+  <p><strong>聚合支付平台 | 提供线上收银台、线下扫码支付、SaaS服务及全生态金融解决方案</strong></p>  
 
-<p align="center">
-  <a href="https://gitee.com/itxinfei">
-    <img alt="Author" src="https://img.shields.io/badge/心飞为你飞-https%3A%2F%2Fgitee.com%2Fitxinfei-green">
-  </a> 
-  <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=5iR4ej_YaZqZqCIRXwtN_-uF1JzBgw6v&jump_from=webapi&authKey=JKv1+3uSvDoBhZxQtg+9d4QCS88YdG9UBNUKhi2IyyxK/RvQ+zjn5WWdP1wkLMSC">
-    <img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流" title="Java项目交流">
-  </a>
-  <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI">
-    <img alt="Email" src="https://img.shields.io/badge/mail-747011882@qq.com-red">
-  </a> 
-  <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">
-  <img alt="Maven" src="https://img.shields.io/badge/maven-3.6.3%2B-yellowgreen">
-  <img alt="License" src="https://img.shields.io/badge/license-Apache-green">
-</p>
-</div>
+  <!-- 基础信息徽章 -->  
+  <p align="center">  
+    <a href="https://gitee.com/itxinfei">  
+      <img alt="Author" src="https://img.shields.io/badge/心飞为你飞-https%3A%2F%2Fgitee.com%2Fitxinfei-green">  
+    </a>  
+    <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=5iR4ej_YaZqZqCIRXwtN_-uF1JzBgw6v&jump_from=webapi&authKey=JKv1+3uSvDoBhZxQtg+9d4QCS88YdG9UBNUKhi2IyyxK/RvQ+zjn5WWdP1wkLMSC">  
+      <img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流" title="Java项目交流">  
+    </a>  
+    <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI">  
+      <img alt="Email" src="https://img.shields.io/badge/mail-747011882@qq.com-red">  
+    </a>  
+  </p>  
+
+  <!-- 技术栈分组徽章 -->  
+  <p align="center">  
+    <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">  
+    <img alt="Maven" src="https://img.shields.io/badge/maven-3.6.3%2B-yellowgreen">  
+    <img alt="License" src="https://img.shields.io/badge/license-Apache-green">  
+  </p>  
+
+  <p align="center">  
+    <!-- 前端技术 -->  
+    <img alt="前端" src="https://img.shields.io/badge/前端-Vue%20+%20React%20+%20Weex-blueviolet">  
+    <!-- 后端框架 -->  
+    <img alt="后端框架" src="https://img.shields.io/badge/后端-SpringCloud%20Alibaba%20+%20Dubbo-orange">  
+  </p>  
+
+  <p align="center">  
+    <!-- 数据库与中间件 -->  
+    <img alt="数据库" src="https://img.shields.io/badge/数据库-MySQL%208.0%20+%20Redis-yellowgreen">  
+    <img alt="消息队列" src="https://img.shields.io/badge/消息队列-RocketMQ%204.9-blue">  
+  </p>  
+
+  <p align="center">  
+    <!-- 监控与部署 -->  
+    <img alt="监控" src="https://img.shields.io/badge/监控-Prometheus%20+%20SkyWalking-purple">  
+    <img alt="部署" src="https://img.shields.io/badge/部署-Docker%20+%20Kubernetes-brightgreen">  
+  </p>  
+</div>  
 
 
-### 演示地址  
+## 🌐 演示地址  
 - **后台管理**：[运营平台](http://shanjupay-admin-java.itheima.net/#/operationLogin)  
 - **商户平台**：[商户登录](http://shanjupay-main-java.itheima.net/#/login?redirect=%2F)  
 
+---
 
 ## 📌 项目简介  
-**闪聚支付** 是一个基于 **Spring Cloud Alibaba** 技术栈开发的聚合支付平台，旨在为商户提供 **一站式支付解决方案**。  
-平台核心功能：  
-- **线上聚合收银台**：整合主流第三方支付（如支付宝、微信）形成开放API  
-- **线下C2B/B2C支付**：支持一码多付、商家扫码等场景  
-- **SaaS服务**：提供订单管理、门店管理、财务统计等基础服务  
-- **生态扩展**：通过广告、营销、金融服务构建移动支付全生态  
-
+**闪聚支付** 是基于 **Spring Cloud Alibaba** 技术栈开发的聚合支付平台，为商户提供一站式支付解决方案。  
+**核心功能**：  
+✅ **线上聚合收银台**：整合支付宝、微信等第三方支付渠道，提供统一API接入  
+✅ **线下C2B/B2C支付**：支持一码多付、商家扫码等场景  
+✅ **SaaS服务**：订单管理、门店管理、财务统计等基础服务  
+✅ **生态扩展**：集成广告、营销、金融服务，构建移动支付全生态  
 
 ### 🎯 核心价值  
-- **高可用性**：微服务架构支持水平扩展与容错  
-- **灵活集成**：开放API适配多种商户需求  
+- **高可用性**：微服务架构支持水平扩展与熔断容错  
+- **灵活集成**：开放API适配不同行业商户需求  
 - **数据驱动**：实时交易监控与多维度报表分析  
 
 ---
 
 ## 🧩 用户端口  
-| 端口类型       | 功能描述                                                                 | 技术实现                  |
-|----------------|--------------------------------------------------------------------------|---------------------------|
-| **运营平台**   | 商户审核、权限配置、数据监控                                              | Vue + Spring Boot Admin   |
-| **商户平台**   | 订单管理、门店设置、支付配置                                                | React + Ant Design        |
-| **用户端App**  | 支付、账单查询、优惠券使用                                                  | Weex + WebSocket实时通知  |
+| 端口类型       | 功能描述                                                                 | 技术实现                  |  
+|----------------|--------------------------------------------------------------------------|---------------------------|  
+| **运营平台**   | 商户审核、权限配置、数据监控                                              | Vue + Spring Boot Admin   |  
+| **商户平台**   | 订单管理、门店设置、支付配置                                                | React + Ant Design        |  
+| **用户端App**  | 支付、账单查询、优惠券使用                                                  | Weex + WebSocket实时通知  |  
 
 ---
 
 ## 📐 软件架构  
 ### 技术栈全景  
-| 层级         | 技术选型                                                                 |
-|--------------|--------------------------------------------------------------------------|
-| **前端**     | Vue + React + Weex + ECharts                                           |
-| **网关层**   | Spring Cloud Gateway + Sentinel                                         |
-| **服务层**   | Spring Boot 2.7 + Dubbo 3.0 + MyBatis Plus                              |
-| **消息队列** | RocketMQ 4.9                                                            |
-| **数据层**   | MySQL 8.0 + Redis 6.2 + Sharding-JDBC                                  |
-| **中间件**   | Nacos 2.1 + XXL-JOB                                                     |
-| **监控**     | Prometheus + Grafana + SkyWalking                                       |
+| 层级         | 技术选型                                                                 |  
+|--------------|--------------------------------------------------------------------------|  
+| **前端**     | Vue + React + Weex + ECharts                                           |  
+| **网关层**   | Spring Cloud Gateway + Sentinel                                         |  
+| **服务层**   | Spring Boot 2.7 + Dubbo 3.0 + MyBatis Plus                              |  
+| **消息队列** | RocketMQ 4.9                                                            |  
+| **数据层**   | MySQL 8.0 + Redis 6.2 + Sharding-JDBC                                  |  
+| **中间件**   | Nacos 2.1 + XXL-JOB                                                     |  
+| **监控**     | Prometheus + Grafana + SkyWalking                                       |  
 
 ### 微服务架构详解  
-![项目功能架构](docs/项目功能架构.png)  
+[项目功能架构图](docs/项目功能架构.png)  
 **服务划分**：  
 1. **用户中心**：商户注册、权限管理（RBAC模型）  
 2. **交易服务**：支付订单生成、状态同步、对账处理  
@@ -74,10 +98,10 @@
 ---
 
 ## 🧱 数据库设计  
-| 数据库名              | 数据量级     | 核心表设计                                                                 |
-|-----------------------|--------------|----------------------------------------------------------------------------|
-| `shanjupay_merchant_service` | 500万+       | 商户表（含资质审核、结算周期、费率配置）                                    |
-| `shanjupay_transaction`      | 1亿+         | 订单表（按时间分表，Sharding-JDBC实现）                                     |
+| 数据库名              | 数据量级     | 核心表设计                                                                 |  
+|-----------------------|--------------|----------------------------------------------------------------------------|  
+| `shanjupay_merchant_service` | 500万+       | 商户表（含资质审核、结算周期、费率配置）                                    |  
+| `shanjupay_transaction`      | 1亿+         | 订单表（按时间分表，Sharding-JDBC实现）                                     |  
 
 ---
 
@@ -105,13 +129,7 @@
 
 ---
 
-## 📱 关注微信公众号  
-![心飞为你飞](docs/心飞为你飞.jpg)  
-**获取最新更新动态与技术支持文档**
-
----
-
-## 📝 部署与依赖  
+## 📦 部署与依赖  
 ### 快速部署指南  
 ```bash
 # 1. 安装依赖中间件
@@ -124,5 +142,10 @@ mysql -u root -p shanjupay_merchant < sql/init_merchant.sql
 mvn clean install && java -jar shanjupay-gateway.jar
 ```
 
-
 ---
+
+## 📱 联系方式  
+🚀 项目地址：[https://gitee.com/itxinfei](https://gitee.com/itxinfei)  
+👥 QQ交流群：[661543188](https://qm.qq.com/cgi-bin/qm/qr?k=5iR4ej_YaZqZqCIRXwtN_-uF1JzBgw6v&jump_from=webapi)  
+📧 邮箱支持：[747011882@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI)  
+📱 微信公众号：[心飞为你飞](docs/心飞为你飞.jpg)  
