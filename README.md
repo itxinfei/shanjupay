@@ -3,7 +3,7 @@
 # 🚀 闪聚支付  
 **聚合支付平台 | 提供线上收银台、线下扫码支付、SaaS服务及全生态金融解决方案**  
 🚀 项目地址：[https://gitee.com/itxinfei/gmall](https://gitee.com/itxinfei/gmall)  
-👥 QQ交流群：[863662849](https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi)  
+👥 QQ交流群：[661543188](https://qm.qq.com/cgi-bin/qm/qr?k=5iR4ej_YaZqZqCIRXwtN_-uF1JzBgw6v&jump_from=webapi&authKey=JKv1+3uSvDoBhZxQtg+9d4QCS88YdG9UBNUKhi2IyyxK/RvQ+zjn5WWdP1wkLMSC)  
 📧 邮箱支持：[747011882@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI)  
 
 ![JDK 1.8+](https://img.shields.io/badge/JDK-1.8%2B-brightgreen)  
