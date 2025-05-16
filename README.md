@@ -1,5 +1,4 @@
-![](Doc/sjzf.png)
-
+![](docs/sjzf.png)
 
 # 🚀 闪聚支付  
 **聚合支付平台 | 提供线上收银台、线下扫码支付、SaaS服务及全生态金融解决方案**  
@@ -13,6 +12,11 @@
 
 ---
 
+### 演示地址  
+- **后台管理**：[运营平台](http://shanjupay-admin-java.itheima.net/#/operationLogin)  
+- **商户平台**：[商户登录](http://shanjupay-main-java.itheima.net/#/login?redirect=%2F)  
+
+
 ## 📌 项目简介  
 **闪聚支付** 是一个基于 **Spring Cloud Alibaba** 技术栈开发的聚合支付平台，旨在为商户提供 **一站式支付解决方案**。  
 平台核心功能：  
@@ -20,6 +24,7 @@
 - **线下C2B/B2C支付**：支持一码多付、商家扫码等场景  
 - **SaaS服务**：提供订单管理、门店管理、财务统计等基础服务  
 - **生态扩展**：通过广告、营销、金融服务构建移动支付全生态  
+
 
 ### 🎯 核心价值  
 - **高可用性**：微服务架构支持水平扩展与容错  
@@ -50,7 +55,7 @@
 | **监控**     | Prometheus + Grafana + SkyWalking                                       |
 
 ### 微服务架构详解  
-![项目功能架构](https://broadscope-dialogue-new.oss-cn-beijing.aliyuncs.com/output/20250516/7e75387aa36c61fc4b168eddc28aca68.png?Expires=1778896434&OSSAccessKeyId=LTAI5tL97mBYzVcjkG1cUyin&Signature=KY11ngzq40ndLwQjdjsIeJkSzJ8%3D)  
+![项目功能架构](docs/项目功能架构.png)  
 **服务划分**：  
 1. **用户中心**：商户注册、权限管理（RBAC模型）  
 2. **交易服务**：支付订单生成、状态同步、对账处理  
@@ -111,8 +116,5 @@ mysql -u root -p shanjupay_merchant < sql/init_merchant.sql
 mvn clean install && java -jar shanjupay-gateway.jar
 ```
 
-### 演示地址  
-- **后台管理**：[运营平台](http://shanjupay-admin-java.itheima.net/#/operationLogin)  
-- **商户平台**：[商户登录](http://shanjupay-main-java.itheima.net/#/login?redirect=%2F)  
 
 ---
