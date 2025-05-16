@@ -3,41 +3,15 @@
   <h1 style="font-size: 36px;">🚀 闪聚支付</h1>  
   <p><strong>聚合支付平台 | 提供线上收银台、线下扫码支付、SaaS服务及全生态金融解决方案</strong></p>  
 
-  <!-- 基础信息徽章 -->  
-  <p align="center">  
-    <a href="https://gitee.com/itxinfei">  
-      <img alt="Author" src="https://img.shields.io/badge/心飞为你飞-https%3A%2F%2Fgitee.com%2Fitxinfei-green">  
-    </a>  
-    <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=5iR4ej_YaZqZqCIRXwtN_-uF1JzBgw6v&jump_from=webapi&authKey=JKv1+3uSvDoBhZxQtg+9d4QCS88YdG9UBNUKhi2IyyxK/RvQ+zjn5WWdP1wkLMSC">  
-      <img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流" title="Java项目交流">  
-    </a>  
-    <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI">  
-      <img alt="Email" src="https://img.shields.io/badge/mail-747011882@qq.com-red">  
-    </a>  
-  </p>  
-
   <!-- 技术栈分组徽章 -->  
   <p align="center">  
     <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">  
     <img alt="Maven" src="https://img.shields.io/badge/maven-3.6.3%2B-yellowgreen">  
     <img alt="License" src="https://img.shields.io/badge/license-Apache-green">  
-  </p>  
-
-  <p align="center">  
-    <!-- 前端技术 -->  
-    <img alt="前端" src="https://img.shields.io/badge/前端-Vue%20+%20React%20+%20Weex-blueviolet">  
-    <!-- 后端框架 -->  
+    <img alt="前端" src="https://img.shields.io/badge/前端-Vue%20+%20React%20+%20Weex-blueviolet">   
     <img alt="后端框架" src="https://img.shields.io/badge/后端-SpringCloud%20Alibaba%20+%20Dubbo-orange">  
-  </p>  
-
-  <p align="center">  
-    <!-- 数据库与中间件 -->  
     <img alt="数据库" src="https://img.shields.io/badge/数据库-MySQL%208.0%20+%20Redis-yellowgreen">  
     <img alt="消息队列" src="https://img.shields.io/badge/消息队列-RocketMQ%204.9-blue">  
-  </p>  
-
-  <p align="center">  
-    <!-- 监控与部署 -->  
     <img alt="监控" src="https://img.shields.io/badge/监控-Prometheus%20+%20SkyWalking-purple">  
     <img alt="部署" src="https://img.shields.io/badge/部署-Docker%20+%20Kubernetes-brightgreen">  
   </p>  
