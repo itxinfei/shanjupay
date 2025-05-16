@@ -148,4 +148,6 @@ mvn clean install && java -jar shanjupay-gateway.jar
 🚀 项目地址：[https://gitee.com/itxinfei](https://gitee.com/itxinfei)  
 👥 QQ交流群：[661543188](https://qm.qq.com/cgi-bin/qm/qr?k=5iR4ej_YaZqZqCIRXwtN_-uF1JzBgw6v&jump_from=webapi)  
 📧 邮箱支持：[747011882@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI)  
-📱 微信公众号：[心飞为你飞](docs/心飞为你飞.jpg)  
+📱 微信公众号： 
+
+![心飞为你飞公众号二维码](docs/心飞为你飞.jpg?width=200)  
