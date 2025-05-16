@@ -1,4 +1,3 @@
-
 <div align="center">  
   <h1 style="font-size: 36px;">🚀 闪聚支付</h1>  
   <p><strong>聚合支付平台 | 提供线上收银台、线下扫码支付、SaaS服务及全生态金融解决方案</strong></p>  
@@ -17,13 +16,6 @@
   </p>  
 </div>  
 
-
-## 🌐 演示地址  
-- **后台管理**：[运营平台](http://shanjupay-admin-java.itheima.net/#/operationLogin)  
-- **商户平台**：[商户登录](http://shanjupay-main-java.itheima.net/#/login?redirect=%2F)  
-
----
-
 ## 📌 项目简介  
 **闪聚支付** 是基于 **Spring Cloud Alibaba** 技术栈开发的聚合支付平台，为商户提供一站式支付解决方案。  
 **核心功能**：  
@@ -31,6 +23,11 @@
 ✅ **线下C2B/B2C支付**：支持一码多付、商家扫码等场景  
 ✅ **SaaS服务**：订单管理、门店管理、财务统计等基础服务  
 ✅ **生态扩展**：集成广告、营销、金融服务，构建移动支付全生态  
+
+## 🌐 演示地址  
+- **后台管理**：[运营平台](http://shanjupay-admin-java.itheima.net/#/operationLogin)  
+- **商户平台**：[商户登录](http://shanjupay-main-java.itheima.net/#/login?redirect=%2F)  
+
 
 ### 🎯 核心价值  
 - **高可用性**：微服务架构支持水平扩展与熔断容错  
@@ -61,7 +58,7 @@
 | **监控**     | Prometheus + Grafana + SkyWalking                                       |  
 
 ### 微服务架构详解  
-[项目功能架构图](docs/项目功能架构.png)  
+![项目功能架构图](docs/项目功能架构.png)  
 **服务划分**：  
 1. **用户中心**：商户注册、权限管理（RBAC模型）  
 2. **交易服务**：支付订单生成、状态同步、对账处理  
